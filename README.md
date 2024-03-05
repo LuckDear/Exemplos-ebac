@@ -8,5 +8,4 @@ Segundo commit
 <<<<<<< HEAD
 Terceiro Commit
 =======
-Quarto commit
->>>>>>> e48c877265b4765ddfffd9da9d1c0fecad6e4472
+Refazendo o Quarto commit 
